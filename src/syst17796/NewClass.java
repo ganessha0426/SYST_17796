@@ -3,19 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sys_17796;
+package syst17796;
 
 /**
  *
  * @author shank
  */
-public class SYS_17796 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+public class NewClass {
+    public static void main(String args[])
+    {
+        //example
+    }    
 }
